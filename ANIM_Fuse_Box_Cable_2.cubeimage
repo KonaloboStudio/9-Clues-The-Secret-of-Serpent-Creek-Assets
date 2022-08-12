@@ -1,0 +1,5 @@
+<animatedImage fps="10.00" blendframes="0">
+   <frame source="fuse_box_cable_2_active_1.png" ></frame>
+   <frame source="fuse_box_cable_2_active_2.png" ></frame>
+   <frame source="fuse_box_cable_2_active_3.png" ></frame>
+</animatedImage>

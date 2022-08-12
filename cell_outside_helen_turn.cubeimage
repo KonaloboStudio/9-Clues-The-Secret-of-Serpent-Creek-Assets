@@ -1,0 +1,7 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="cell_outside_helen_turning1.png"></frame>
+	<frame source="cell_outside_helen_turning2.png"></frame>
+	<frame source="cell_outside_helen_turning3.png"></frame>
+	<frame source="cell_outside_helen_turning4.png"></frame>
+	<frame source="cell_outside_helen_turning5.png"></frame>
+</animatedImage>

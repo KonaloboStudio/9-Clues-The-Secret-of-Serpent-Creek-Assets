@@ -1,0 +1,4 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="mansion_back_moth1.png"></frame>
+	<frame source="mansion_back_moth2.png"></frame>
+</animatedImage>

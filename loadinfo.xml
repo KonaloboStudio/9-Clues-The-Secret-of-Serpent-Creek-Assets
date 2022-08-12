@@ -1,0 +1,15 @@
+<loadinfo ActionAtFreemiumEnd="0:0:0:0:0:0:0:0:0:0:0" hd="0">
+	<languages>
+		<lang name="de" packs="Game_de.cub"/>
+		<lang name="en" packs="Game_en.cub"/>
+		<lang name="es" packs="Game_es.cub"/>
+		<lang name="fr" packs="Game_fr.cub"/>
+		<lang name="ja" packs="Game_ja.cub"/>
+		<lang name="ko" packs="Game_ko.cub"/>
+		<lang name="pl" packs="Game_pl.cub"/>
+		<lang name="pt" packs="Game_pt.cub"/>
+		<lang name="ru" packs="Game_ru.cub"/>
+		<lang name="zh" packs="Game_zh.cub"/>
+	</languages>
+	<device atlas_fmt="DXT5" clamp43v="0" fontdesc="fonts.cubefont" item_ic_sc="1" loc_packages="Game" name="windows" packages="Game" texts="text.xml,text_pc.xml,text_new.xml,text_store.xml" video_ext="webm"/>
+</loadinfo>

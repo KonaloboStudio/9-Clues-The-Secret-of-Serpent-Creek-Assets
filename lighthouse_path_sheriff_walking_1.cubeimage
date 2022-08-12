@@ -1,0 +1,6 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="empty_texture.png"></frame>
+	<frame source="lighthouse_path_sheriff_walking_1.png"></frame>
+	<frame source="lighthouse_path_sheriff_walking_2.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

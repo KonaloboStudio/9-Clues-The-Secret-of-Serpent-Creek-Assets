@@ -1,0 +1,7 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="sheriff_glasses_bling1.png"></frame>
+	<frame source="sheriff_glasses_bling2.png"></frame>
+	<frame source="sheriff_glasses_bling3.png"></frame>
+	<frame source="sheriff_glasses_bling2.png"></frame>
+	<frame source="sheriff_glasses_bling1.png"></frame>
+</animatedImage>

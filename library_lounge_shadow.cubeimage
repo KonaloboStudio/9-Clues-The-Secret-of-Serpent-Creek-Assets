@@ -1,0 +1,10 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="empty_texture.png"></frame>
+	<frame source="library_lounge_shadow_3.png"></frame>
+	<frame source="library_lounge_shadow_2.png"></frame>
+	<frame source="library_lounge_shadow_1.png"></frame>
+	<frame source="library_lounge_shadow_1.png"></frame>
+	<frame source="library_lounge_shadow_2.png"></frame>
+	<frame source="library_lounge_shadow_3.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

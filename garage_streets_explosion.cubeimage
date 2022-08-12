@@ -1,0 +1,7 @@
+<animatedImage fps="10" blendframes="1">
+	<frame source="garage_streets_snake_explosion_1.png"></frame>
+	<frame source="garage_streets_snake_explosion_2.png"></frame>
+	<frame source="garage_streets_snake_explosion_3.png"></frame>
+	<frame source="garage_streets_snake_explosion_4.png"></frame>
+	<frame source="garage_streets_snake_explosion_5.png"></frame>
+</animatedImage>

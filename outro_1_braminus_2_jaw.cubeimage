@@ -1,0 +1,4 @@
+<animatedImage fps="4" blendframes="1">
+	<frame source="outro_1_braminus_2_jaw.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

@@ -1,0 +1,5 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="hotel_streets_falsen_eyes_closed.png"></frame>
+	<frame source="hotel_streets_falsen_eyes_halfclosed.png"></frame>
+	<frame source="_empty_texture.png"></frame>
+</animatedImage>

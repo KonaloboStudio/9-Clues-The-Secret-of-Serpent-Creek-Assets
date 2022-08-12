@@ -1,0 +1,5 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="cemetary_gates_padlock_key.png"></frame>
+	<frame source="cemetary_gates_padlock_key_turned.png"></frame>
+	<frame source="cemetary_gates_padlock_key.png"></frame>
+</animatedImage>

@@ -1,0 +1,4 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="cutscene_owen_dies_face.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

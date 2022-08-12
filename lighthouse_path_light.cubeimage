@@ -1,0 +1,9 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="lighthouse_path_light_1.png"></frame>
+	<frame source="lighthouse_path_light_2.png"></frame>
+	<frame source="lighthouse_path_light_3.png"></frame>
+	<frame source="lighthouse_path_light_4.png"></frame>
+	<frame source="lighthouse_path_light_5.png"></frame>
+	<frame source="lighthouse_path_light_6.png"></frame>
+	<frame source="lighthouse_path_light_7.png"></frame>
+</animatedImage>

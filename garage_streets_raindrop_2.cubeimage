@@ -1,0 +1,6 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="empty_texture.png"></frame>
+	<frame source="raindrop_splash_1.png"></frame>
+	<frame source="empty_texture.png"></frame>
+	empty_texture
+</animatedImage>

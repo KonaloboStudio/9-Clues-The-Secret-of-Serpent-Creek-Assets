@@ -1,0 +1,7 @@
+<animatedImage fps="10" blendframes="0">
+	<frame source="hand_system.png"></frame>
+	<frame source="hand_grab_system.png"></frame>
+	<frame source="hand_grab2_system.png"></frame>
+	<frame source="hand_grab_system.png"></frame>
+	<frame source="hand_system.png"></frame>
+</animatedImage>

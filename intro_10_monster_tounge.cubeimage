@@ -1,0 +1,4 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="intro_10_monster_4_tongue_1.png"></frame>
+	<frame source="intro_10_monster_4_tongue_2.png"></frame>
+</animatedImage>

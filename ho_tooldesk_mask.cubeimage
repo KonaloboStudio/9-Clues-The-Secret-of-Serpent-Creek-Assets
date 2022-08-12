@@ -1,0 +1,7 @@
+<animatedImage fps="4" blendframes="1">
+	<frame source="ho_tool_desk_porcelain_doll.png"></frame>
+	<frame source="ho_tool_desk_porcelain_doll_2.png"></frame>
+	<frame source="ho_tool_desk_porcelain_doll_3.png"></frame>
+	<frame source="ho_tool_desk_porcelain_doll_2.png"></frame>
+	<frame source="ho_tool_desk_porcelain_doll.png"></frame>
+</animatedImage>

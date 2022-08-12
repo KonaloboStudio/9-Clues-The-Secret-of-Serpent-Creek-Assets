@@ -1,0 +1,5 @@
+<animatedImage fps="4" blendframes="1" randomstart="1">
+	<frame source="ho_01_suitcase_smoke_01.png"></frame>
+	<frame source="ho_01_suitcase_smoke_02.png"></frame>
+	<frame source="ho_01_suitcase_smoke_03.png"></frame>
+</animatedImage>

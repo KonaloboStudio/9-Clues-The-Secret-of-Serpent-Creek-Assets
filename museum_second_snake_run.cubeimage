@@ -1,0 +1,7 @@
+<animatedImage fps="2" blendframes="1">
+   <frame source="museum_second_floor_snake_run_1.png" ></frame>
+   <frame source="museum_second_floor_snake_run_2.png" ></frame>
+   <frame source="museum_second_floor_snake_run_3.png" ></frame>
+   <frame source="museum_second_floor_snake_run_4.png" ></frame>
+   <frame source="empty_texture.png" ></frame>
+</animatedImage>

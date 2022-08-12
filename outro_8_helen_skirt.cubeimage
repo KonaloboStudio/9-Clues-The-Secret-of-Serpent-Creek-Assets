@@ -1,0 +1,4 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="outro_8_helen_skirt_2.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

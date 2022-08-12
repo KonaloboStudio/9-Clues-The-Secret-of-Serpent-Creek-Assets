@@ -1,0 +1,4 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="cutscene_fight_braminus_5_mouth.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

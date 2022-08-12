@@ -1,0 +1,5 @@
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSample>
+           <CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="1.000" FadeOut ="0" FileName="DIALOG_FALSEN_LIE_12.wav"></CSampleFile>
+        </CSample>
+</Sound>

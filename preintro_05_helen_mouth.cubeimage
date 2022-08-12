@@ -1,0 +1,7 @@
+<animatedImage fps="12" blendframes="1">
+	<frame source="preintro_05_helen_mouth_open.png"></frame>
+	<frame source="preintro_06_helen_mouth_halfopen.png"></frame>
+	<frame source="empty_texture.png"></frame>
+	<frame source="preintro_06_helen_mouth_halfopen.png"></frame>
+	<frame source="preintro_05_helen_mouth_open.png"></frame>
+</animatedImage>

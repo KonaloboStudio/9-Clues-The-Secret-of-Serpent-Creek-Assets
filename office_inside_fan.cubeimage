@@ -1,0 +1,6 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="office_inside_fan_1.png"></frame>
+	<frame source="office_inside_fan_2.png"></frame>
+	<frame source="office_inside_fan_3.png"></frame>
+	<frame source="office_inside_fan_4.png"></frame>
+</animatedImage>

@@ -1,0 +1,6 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="cemetery_mausoleum_shadow1.png"></frame>
+	<frame source="cemetery_mausoleum_shadow2.png"></frame>
+	<frame source="cemetery_mausoleum_shadow3.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

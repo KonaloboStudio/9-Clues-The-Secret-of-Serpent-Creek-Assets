@@ -1,0 +1,7 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="lighthouse_entrance_door_valve_1.png"></frame>
+	<frame source="lighthouse_entrance_door_valve_2.png"></frame>
+	<frame source="lighthouse_entrance_door_valve_1.png"></frame>
+	<frame source="lighthouse_entrance_door_valve_2.png"></frame>
+	<frame source="lighthouse_entrance_door_valve_1.png"></frame>
+</animatedImage>

@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="1">
+	<frame source="sewer_exit_steam1.png"></frame>
+	<frame source="sewer_exit_steam2.png"></frame>
+	<frame source="sewer_exit_steam3.png"></frame>
+</animatedImage>

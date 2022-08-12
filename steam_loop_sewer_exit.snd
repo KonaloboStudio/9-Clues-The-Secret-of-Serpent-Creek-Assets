@@ -1,0 +1,5 @@
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" >
+    <CSample>
+           <CSampleFile Pan="0.000" Weight="5" WaitAfter="0" Pitch="1.000" Volume="2.000" FadeOutTime ="0" FadeInTime="0"  Looped="true" FileName="steam_loop_sewer_exit.ogg"></CSampleFile>
+        </CSample>
+</Sound>

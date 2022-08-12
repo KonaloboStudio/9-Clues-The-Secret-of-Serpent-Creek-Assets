@@ -1,0 +1,4 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="mansion_basement_cutscene_braminus_stand_face.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

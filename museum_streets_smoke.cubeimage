@@ -1,0 +1,4 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="museum_streets_smoke_1.png"></frame>
+	<frame source="museum_streets_smoke_2.png"></frame>
+</animatedImage>

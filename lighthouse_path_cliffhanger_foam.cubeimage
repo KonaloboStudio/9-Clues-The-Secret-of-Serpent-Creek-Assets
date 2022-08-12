@@ -1,0 +1,4 @@
+<animatedImage fps="0.3" blendframes="1">
+	<frame source="lighthouse_path_cliffhanger_foam1.png"></frame>
+	<frame source="lighthouse_path_cliffhanger_foam2.png"></frame>
+</animatedImage>

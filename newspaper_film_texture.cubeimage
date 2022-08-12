@@ -1,0 +1,5 @@
+<animatedImage fps="10" blendframes="0">
+	<frame source="newspaper_film_texture_1.png"></frame>
+	<frame source="newspaper_film_texture_2.png"></frame>
+	<frame source="newspaper_film_texture_3.png"></frame>
+</animatedImage>

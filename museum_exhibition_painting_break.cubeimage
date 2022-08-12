@@ -1,0 +1,6 @@
+<animatedImage fps="10" blendframes="1">
+	<frame source="museum_exhibition_painting.png"></frame>
+	<frame source="museum_exhibition_painting_2.png"></frame>
+	<frame source="museum_exhibition_painting_3.png"></frame>
+	<frame source="museum_exhibition_painting_4.png"></frame>
+</animatedImage>

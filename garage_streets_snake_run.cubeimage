@@ -1,0 +1,7 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="garage_streets_snake_snake_anim1.png"></frame>
+	<frame source="garage_streets_snake_snake_anim2.png"></frame>
+	<frame source="garage_streets_snake_snake_anim3.png"></frame>
+	<frame source="garage_streets_snake_snake_anim4.png"></frame>
+	<frame source="garage_streets_snake_snake_anim5.png"></frame>
+</animatedImage>

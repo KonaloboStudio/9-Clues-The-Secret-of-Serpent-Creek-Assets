@@ -1,0 +1,9 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="hotel_streets_cat_runaway_1.png"></frame>
+	<frame source="hotel_streets_cat_runaway_2.png"></frame>
+	<frame source="hotel_streets_cat_runaway_3.png"></frame>
+	<frame source="hotel_streets_cat_runaway_4.png"></frame>
+	<frame source="hotel_streets_cat_runaway_5.png"></frame>
+	<frame source="hotel_streets_cat_runaway_6.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

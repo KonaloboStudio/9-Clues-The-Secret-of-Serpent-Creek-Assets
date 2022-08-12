@@ -1,0 +1,4 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="hotel_corridor_owen_mouth.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

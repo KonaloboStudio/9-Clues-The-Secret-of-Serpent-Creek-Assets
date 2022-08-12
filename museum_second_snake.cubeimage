@@ -1,0 +1,7 @@
+<animatedImage fps="3" blendframes="1">
+   <frame source="museum_second_floor_snake1.png" ></frame>
+   <frame source="museum_second_floor_snake2.png" ></frame>
+   <frame source="museum_second_floor_snake3.png" ></frame>
+   <frame source="museum_second_floor_snake4.png" ></frame>
+   <frame source="museum_second_floor_snake5.png" ></frame>
+</animatedImage>

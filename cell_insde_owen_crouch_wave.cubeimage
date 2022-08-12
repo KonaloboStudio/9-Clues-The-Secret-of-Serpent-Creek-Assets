@@ -1,0 +1,4 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="cell_insde_owen_crouch_wave_1.png"></frame>
+	<frame source="cell_insde_owen_crouch_wave_2.png"></frame>
+</animatedImage>

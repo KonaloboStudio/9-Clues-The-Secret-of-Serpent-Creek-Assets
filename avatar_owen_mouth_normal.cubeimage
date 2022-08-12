@@ -1,0 +1,4 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="avatar_owen_mouth_open.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

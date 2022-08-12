@@ -1,0 +1,5 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="ho_01_suitcase_tobacco_drop_1.png"></frame>
+	<frame source="ho_01_suitcase_tobacco_drop_2.png"></frame>
+	<frame source="ho_01_suitcase_tobacco_drop_3.png"></frame>
+</animatedImage>

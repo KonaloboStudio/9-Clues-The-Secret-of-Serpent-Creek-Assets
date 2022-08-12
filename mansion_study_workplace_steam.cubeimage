@@ -1,0 +1,6 @@
+<animatedImage fps="7" blendframes="1">
+	<frame source="mansion_study_workplace_steam_1.png"></frame>
+	<frame source="mansion_study_workplace_steam_2.png"></frame>
+	<frame source="mansion_study_workplace_steam_3.png"></frame>
+	<frame source="mansion_study_workplace_steam_4.png"></frame>
+</animatedImage>

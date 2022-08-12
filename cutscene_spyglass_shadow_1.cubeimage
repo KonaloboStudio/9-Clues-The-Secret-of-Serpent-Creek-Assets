@@ -1,0 +1,12 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="cutscene_landscape_1_1.png"></frame>
+	<frame source="cutscene_landscape_1_2.png"></frame>
+	<frame source="cutscene_landscape_1_3.png"></frame>
+	<frame source="cutscene_landscape_1_4.png"></frame>
+	<frame source="cutscene_landscape_1_5.png"></frame>
+	<frame source="cutscene_landscape_1_6.png"></frame>
+	<frame source="cutscene_landscape_1_7.png"></frame>
+	<frame source="cutscene_landscape_1_8.png"></frame>
+	<frame source="cutscene_landscape_1_9.png"></frame>
+	<frame source="cutscene_landscape_1_10.png"></frame>
+</animatedImage>

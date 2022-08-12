@@ -1,0 +1,8 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="cutscene_landscape_1_shadow.png"></frame>
+	<frame source="cutscene_landscape_2_shadow.png"></frame>
+	<frame source="cutscene_landscape_3_shadow.png"></frame>
+	<frame source="cutscene_landscape_4_shadow.png"></frame>
+	<frame source="cutscene_landscape_5_shadow.png"></frame>
+	<frame source="cutscene_landscape_6_shadow.png"></frame>
+</animatedImage>

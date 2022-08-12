@@ -1,0 +1,6 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="square_left_cat_cat_1.png"></frame>
+	<frame source="square_left_cat_cat_2.png"></frame>
+	<frame source="square_left_cat_cat_3.png"></frame>
+	<frame source="square_left_cat_cat_2.png"></frame>
+</animatedImage>

@@ -1,0 +1,488 @@
+<fontscript>
+	<font gensize="20" name="achi_text" size="20" source="Alegreya-Regular.ttf"/>
+	<font gensize="30" name="achi_title" size="30" source="Alegreya-Regular.ttf"/>
+	<font baselineyoffset="2" gensize="23" name="Back_button" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="23" source="Alegreya-Regular.ttf"/>
+	<font gensize="15" name="Bolton_15" size="15" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="18" name="Bolton_18" size="18" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="18" name="SKIPTUT" size="18" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="20" name="Bolton_20" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="22" name="Bolton_22" size="22" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="24" name="Bolton_24" size="24" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="30" name="Bolton_30" size="30" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="30" name="counter_label" size="30" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="18" name="CoveredByYourGrace_18" size="18" source="CoveredByYourGrace.ttf"/>
+	<font gensize="20" name="CoveredByYourGrace_20" size="20" source="CoveredByYourGrace.ttf"/>
+	<font gensize="30" name="CoveredByYourGrace_30" size="30" source="CoveredByYourGrace.ttf"/>
+	<font gensize="30" name="credits_g5_info" size="30" source="Alegreya-Bold.ttf"/>
+	<font gensize="40" name="credits_funcion" size="40" source="Alegreya-Bold.ttf"/>
+	<font gensize="30" name="credits_name" size="30" source="GentiumPlus-I.ttf"/>
+	<font dynamic="true" gensize="8" name="Default" size="8" source="DejaVuSans.ttf"/>
+	<font gensize="10" name="Default_10" size="10" source="Oldenburg-Regular.ttf"/>
+	<font gensize="18" name="Default_18" size="18" source="Oldenburg-Regular.ttf"/>
+	<font gensize="20" name="Default_20" size="20" source="Oldenburg-Regular.ttf"/>
+	<font gensize="24" name="Default_24" size="24" source="Oldenburg-Regular.ttf"/>
+	<font gensize="29" name="Default_30" size="29" source="Oldenburg-Regular.ttf"/>
+	<font gensize="50" name="Default_50" size="50" source="Oldenburg-Regular.ttf"/>
+	<font gensize="60" name="Default_60" size="60" source="Oldenburg-Regular.ttf"/>
+	<font gensize="8" name="Default_8" size="8" source="Oldenburg-Regular.ttf"/>
+	<font gensize="18" name="Dialog_help_mid" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="20" lineheight="40" name="difficulty_level_text" size="20" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="GentiumPlus-I_18" size="18" source="GentiumPlus-I.ttf"/>
+	<font gensize="20" name="GentiumPlus-I_20" size="20" source="GentiumPlus-I.ttf"/>
+	<font gensize="35" name="GentiumPlus-I_35" size="35" source="GentiumPlus-I.ttf"/>
+	<font gensize="40" name="GentiumPlus-I_40" size="40" source="GentiumPlus-I.ttf"/>
+	<font gensize="50" name="GentiumPlus-I_50" size="50" source="GentiumPlus-I.ttf"/>
+	<font gensize="18" name="Helen_18" size="18" source="ArchitectsDaughter.ttf"/>
+	<font gensize="20" name="Helen_20" size="20" source="ArchitectsDaughter.ttf"/>
+	<font gensize="24" name="Helen_24" size="24" source="ArchitectsDaughter.ttf"/>
+	<font gensize="30" name="Helen_30" size="30" source="ArchitectsDaughter.ttf"/>
+	<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="18" name="Journal_18" size="18" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="20" name="Journal_20" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="25" name="Journal_25" size="25" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="30" name="Journal_30" size="30" source="CrimsonText-SemiboldItalic.ttf"/>
+	<font gensize="33" name="Main_Menu_btn_large" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="33" source="PlayfairDisplay-BoldItalic.ttf"/>
+	<font baselineyoffset="3" gensize="23" name="Main_Menu_btn_small" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="23" source="PlayfairDisplay-BoldItalic.ttf"/>
+	<font baselineyoffset="9" gensize="21" lineheight="32" name="Main_Menu_learnmore" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="21" source="PlayfairDisplay-BoldItalic.ttf"/>
+	<font baselineyoffset="6" gensize="28" name="Main_Menu_unlock" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="28" source="PlayfairDisplay-BoldItalic.ttf"/>
+	<font gensize="20" name="Marmelad_20" size="20" source="Marmelad-Regular.ttf"/>
+	<font gensize="24" name="Marmelad_24" size="24" source="Marmelad-Regular.ttf"/>
+	<font gensize="30" name="Marmelad_30" size="30" source="Marmelad-Regular.ttf"/>
+	<font gensize="19" name="mg_ho_font" size="19" source="CrimsonText-Semibold.ttf"/>
+	<font gensize="18" name="Newspaper_18" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="20" name="Newspaper_20" size="20" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="Newspaper_Bold_18" size="18" source="Alegreya-Bold.ttf"/>
+	<font gensize="20" name="Newspaper_Bold_20" size="20" source="Alegreya-Bold.ttf"/>
+	<font gensize="24" name="Newspaper_Bold_24" size="24" source="Alegreya-Bold.ttf"/>
+	<font gensize="30" name="Newspaper_Bold_30" size="30" source="Alegreya-Bold.ttf"/>
+	<font gensize="50" name="Newspaper_Bold_50" size="50" source="Alegreya-Bold.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:2" size="24" source="PT_Sans-Web-Bold.ttf"/>
+	<font gensize="16" name="Pac_dialog_text" size="16" source="PT_Sans-Web-Regular.ttf"/>
+	<font gensize="30" name="ProfileName" size="30" source="Alegreya-Regular.ttf"/>
+	<font gensize="30" name="ProfileName_dia" size="30" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="Providence_18" size="18" source="Forum.ttf"/>
+	<font gensize="20" name="Providence_20" size="20" source="Forum.ttf"/>
+	<font gensize="30" name="Providence_30" size="30" source="Forum.ttf"/>
+	<font gensize="40" name="Providence_40" size="40" source="Forum.ttf"/>
+	<font gensize="50" name="Providence_50" size="50" source="Forum.ttf"/>
+	<font gensize="18" name="ShadowsIntoLightTwo-Regular_18" size="18" source="ShadowsIntoLightTwo-Regular.ttf"/>
+	<font gensize="20" name="ShadowsIntoLightTwo-Regular_20" size="20" source="ShadowsIntoLightTwo-Regular.ttf"/>
+	<font gensize="24" name="ShadowsIntoLightTwo-Regular_24" size="24" source="ShadowsIntoLightTwo-Regular.ttf"/>
+	<font gensize="30" name="ShadowsIntoLightTwo-Regular_30" size="30" source="ShadowsIntoLightTwo-Regular.ttf"/>
+	<font gensize="40" name="ShadowsIntoLightTwo-Regular_40" size="40" source="ShadowsIntoLightTwo-Regular.ttf"/>
+	<font gensize="45" name="ShadowsIntoLightTwo-Regular_50" size="45" source="ShadowsIntoLightTwo-Regular.ttf"/>
+	<font gensize="18" name="Slides_18" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="Slides_Bold_18" size="18" source="Alegreya-Bold.ttf"/>
+	<font gensize="18" name="TheGreatEscape_18" size="18" source="TheGreatEscape.ttf"/>
+	<font gensize="20" name="TheGreatEscape_20" size="20" source="TheGreatEscape.ttf"/>
+	<font gensize="30" name="TheGreatEscape_30" size="30" source="TheGreatEscape.ttf"/>
+	<font gensize="40" name="TheGreatEscape_40" size="40" source="TheGreatEscape.ttf"/>
+	<font gensize="50" name="TheGreatEscape_50" size="50" source="TheGreatEscape.ttf"/>
+	<font gensize="18" name="Tutorial_18" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="20" name="Tutorial_20" size="20" source="Alegreya-Regular.ttf"/>
+	<font gensize="24" name="Tutorial_24" size="24" source="Alegreya-Regular.ttf"/>
+	<font gensize="30" name="Tutorial_30" size="30" source="Alegreya-Regular.ttf"/>
+	<font gensize="20" name="Tutorial_only_mid" size="20" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="Tutorial_only_small" size="18" source="Alegreya-Regular.ttf"/>
+	<font gensize="24" name="tutorial_yes_no" size="24" source="Alegreya-Regular.ttf"/>
+	<font gensize="18" name="Wellfleet-Regular_18" size="18" source="Wellfleet-Regular.ttf"/>
+	<font gensize="20" name="Wellfleet-Regular_20" size="20" source="Wellfleet-Regular.ttf"/>
+	<font gensize="25" name="Wellfleet-Regular_25" size="25" source="Wellfleet-Regular.ttf"/>
+	<font gensize="30" name="Wellfleet-Regular_30" size="30" source="Wellfleet-Regular.ttf"/>
+	<font gensize="20" name="items_counter" shadowcolor="0:0:0:1" shadowoffset="-1:-1" size="20" source="CrimsonText-Semibold.ttf"/>
+	<font gensize="40" name="Discount_Label" shadowcolor="1:0.3:0.15:1" shadowoffset="2:2" size="40" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="20" name="Discount_Label_Percent" shadowcolor="1:0.3:0.15:1" shadowoffset="1:1" size="20" source="LiberationSerif-Bold.ttf"/>
+	<font gensize="16" name="Dialog_profil_name_changeplayer" size="16" source="Marmelad-Regular.ttf"/>
+	<language name="fr">
+		<font baselineyoffset="9" gensize="18" lineheight="28" name="Main_Menu_learnmore" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="18" source="PlayfairDisplay-BoldItalic.ttf"/>
+	</language>
+	<language name="pl">
+		<font gensize="18" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="18" source="CrimsonText-SemiboldItalic.ttf"/>
+		<font gensize="20" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+		<font gensize="20" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="CrimsonText-SemiboldItalic.ttf"/>
+	</language>
+	<language name="ja">
+		<font gensize="20" name="achi_text" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="achi_title" size="30" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="2" gensize="23" name="Back_button" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="23" source="KozGoPro-Regular.ttf"/>
+		<font gensize="15" name="Bolton_15" size="15" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Bolton_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="SKIPTUT" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Bolton_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Bolton_22" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Bolton_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Bolton_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="CoveredByYourGrace_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="CoveredByYourGrace_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="CoveredByYourGrace_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="credits_g5_info" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="40" name="credits_funcion" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="credits_name" size="30" source="GentiumPlus-R.ttf"/>
+		<font gensize="10" name="Default_10" size="10" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Default_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Default_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Default_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Default_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="50" name="Default_50" size="50" source="KozGoPro-Regular.ttf"/>
+		<font gensize="60" name="Default_60" size="60" source="KozGoPro-Regular.ttf"/>
+		<font gensize="8" name="Default_8" size="8" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Dialog_help_mid" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" lineheight="40" name="difficulty_level_text" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="GentiumPlus-I_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="GentiumPlus-I_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="35" name="GentiumPlus-I_35" size="35" source="KozGoPro-Regular.ttf"/>
+		<font gensize="40" name="GentiumPlus-I_40" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="50" name="GentiumPlus-I_50" size="50" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Helen_18" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="26" lineheight="34" name="Helen_20" size="26" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Helen_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Helen_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Journal_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Journal_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="25" name="Journal_25" size="25" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Journal_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="-5" gensize="33" name="Main_Menu_btn_large" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="33" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="3" gensize="25" name="Main_Menu_btn_small" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="25" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="2" gensize="21" lineheight="32" name="Main_Menu_learnmore" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="21" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="2" gensize="29" name="Main_Menu_unlock" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="29" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Marmelad_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Marmelad_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Marmelad_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="19" name="mg_ho_font" size="19" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Newspaper_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Newspaper_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Newspaper_Bold_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Newspaper_Bold_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Newspaper_Bold_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Newspaper_Bold_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="50" name="Newspaper_Bold_50" size="50" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:-2" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="ProfileName" size="30" source="KozGoPro-Regular.ttf"/>
+		<font baselineyoffset="-8" gensize="30" name="ProfileName_dia" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Providence_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Providence_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Providence_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="40" name="Providence_40" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="50" name="Providence_50" size="50" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="ShadowsIntoLightTwo-Regular_18" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="ShadowsIntoLightTwo-Regular_20" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="ShadowsIntoLightTwo-Regular_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="ShadowsIntoLightTwo-Regular_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="40" name="ShadowsIntoLightTwo-Regular_40" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="50" name="ShadowsIntoLightTwo-Regular_50" size="50" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Slides_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Slides_Bold_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" lineheight="30" name="TheGreatEscape_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" lineheight="42" name="TheGreatEscape_20" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="TheGreatEscape_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="40" name="TheGreatEscape_40" size="40" source="KozGoPro-Regular.ttf"/>
+		<font gensize="50" name="TheGreatEscape_50" size="50" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Tutorial_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Tutorial_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="Tutorial_24" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Tutorial_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="22" name="Tutorial_only_mid" size="22" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Tutorial_only_small" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="KozGoPro-Regular.ttf"/>
+		<font gensize="18" name="Wellfleet-Regular_18" size="18" source="KozGoPro-Regular.ttf"/>
+		<font gensize="20" name="Wellfleet-Regular_20" size="20" source="KozGoPro-Regular.ttf"/>
+		<font gensize="25" name="Wellfleet-Regular_25" size="25" source="KozGoPro-Regular.ttf"/>
+		<font gensize="30" name="Wellfleet-Regular_30" size="30" source="KozGoPro-Regular.ttf"/>
+		<font gensize="16" name="Dialog_profil_name_changeplayer" size="16" source="KozGoPro-Regular.ttf"/>
+	</language>
+	<language name="ko">
+		<font gensize="20" name="achi_text" size="20" source="NanumGothic.ttf"/>
+		<font gensize="30" name="achi_title" size="30" source="NanumGothic.ttf"/>
+		<font baselineyoffset="2" gensize="23" name="Back_button" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="23" source="NanumGothic.ttf"/>
+		<font gensize="15" name="Bolton_15" size="15" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Bolton_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="SKIPTUT" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Bolton_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Bolton_22" size="22" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Bolton_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Bolton_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="18" name="CoveredByYourGrace_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="CoveredByYourGrace_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="30" name="CoveredByYourGrace_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="30" name="credits_g5_info" size="30" source="NanumGothic.ttf"/>
+		<font gensize="40" name="credits_funcion" size="40" source="NanumGothic.ttf"/>
+		<font gensize="30" name="credits_name" size="30" source="GentiumPlus-R.ttf"/>
+		<font gensize="10" name="Default_10" size="10" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Default_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Default_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Default_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Default_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="50" name="Default_50" size="50" source="NanumGothic.ttf"/>
+		<font gensize="60" name="Default_60" size="60" source="NanumGothic.ttf"/>
+		<font gensize="8" name="Default_8" size="8" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Dialog_help_mid" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" lineheight="40" name="difficulty_level_text" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="GentiumPlus-I_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="GentiumPlus-I_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="35" name="GentiumPlus-I_35" size="35" source="NanumGothic.ttf"/>
+		<font gensize="40" name="GentiumPlus-I_40" size="40" source="NanumGothic.ttf"/>
+		<font gensize="50" name="GentiumPlus-I_50" size="50" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Helen_18" size="22" source="NanumGothic.ttf"/>
+		<font gensize="26" name="Helen_20" size="26" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Helen_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Helen_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Journal_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Journal_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="25" name="Journal_25" size="25" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Journal_30" size="30" source="NanumGothic.ttf"/>
+		<font baselineyoffset="-5" gensize="33" name="Main_Menu_btn_large" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="33" source="NanumGothic.ttf"/>
+		<font baselineyoffset="3" gensize="25" name="Main_Menu_btn_small" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="25" source="NanumGothic.ttf"/>
+		<font baselineyoffset="9" gensize="21" lineheight="32" name="Main_Menu_learnmore" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="21" source="NanumGothic.ttf"/>
+		<font baselineyoffset="2" gensize="29" name="Main_Menu_unlock" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="29" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Marmelad_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Marmelad_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Marmelad_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="19" name="mg_ho_font" size="19" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Newspaper_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Newspaper_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Newspaper_Bold_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Newspaper_Bold_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Newspaper_Bold_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Newspaper_Bold_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="50" name="Newspaper_Bold_50" size="50" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:-2" size="24" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="NanumGothic.ttf"/>
+		<font gensize="40" name="ProfileName" size="30" source="NanumGothic.ttf"/>
+		<font baselineyoffset="-8" gensize="40" name="ProfileName_dia" size="30" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Providence_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Providence_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Providence_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="40" name="Providence_40" size="40" source="NanumGothic.ttf"/>
+		<font gensize="50" name="Providence_50" size="50" source="NanumGothic.ttf"/>
+		<font gensize="20" name="ShadowsIntoLightTwo-Regular_18" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="ShadowsIntoLightTwo-Regular_20" size="24" source="NanumGothic.ttf"/>
+		<font gensize="24" name="ShadowsIntoLightTwo-Regular_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="ShadowsIntoLightTwo-Regular_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="40" name="ShadowsIntoLightTwo-Regular_40" size="40" source="NanumGothic.ttf"/>
+		<font gensize="50" name="ShadowsIntoLightTwo-Regular_50" size="50" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Slides_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Slides_Bold_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="18" name="TheGreatEscape_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="TheGreatEscape_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="30" name="TheGreatEscape_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="40" name="TheGreatEscape_40" size="40" source="NanumGothic.ttf"/>
+		<font gensize="50" name="TheGreatEscape_50" size="50" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Tutorial_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Tutorial_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="24" name="Tutorial_24" size="24" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Tutorial_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="22" name="Tutorial_only_mid" size="22" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Tutorial_only_small" size="18" source="NanumGothic.ttf"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="NanumGothic.ttf"/>
+		<font gensize="18" name="Wellfleet-Regular_18" size="18" source="NanumGothic.ttf"/>
+		<font gensize="20" name="Wellfleet-Regular_20" size="20" source="NanumGothic.ttf"/>
+		<font gensize="25" name="Wellfleet-Regular_25" size="25" source="NanumGothic.ttf"/>
+		<font gensize="30" name="Wellfleet-Regular_30" size="30" source="NanumGothic.ttf"/>
+		<font gensize="16" name="Dialog_profil_name_changeplayer" size="16" source="NanumGothic.ttf"/>
+	</language>
+	<language name="ru">
+		<font gensize="20" name="achi_text" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="achi_title" size="30" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="2" gensize="23" name="Back_button" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="23" source="Jura-Regular.ttf"/>
+		<font gensize="15" name="Bolton_15" size="15" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Bolton_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="SKIPTUT" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Bolton_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Bolton_22" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Bolton_24" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Bolton_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="CoveredByYourGrace_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="CoveredByYourGrace_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="CoveredByYourGrace_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="credits_g5_info" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="40" name="credits_funcion" size="40" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="credits_name" size="30" source="GentiumPlus-R.ttf"/>
+		<font gensize="10" name="Default_10" size="10" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Default_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Default_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Default_24" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Default_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="50" name="Default_50" size="50" source="Jura-Regular.ttf"/>
+		<font gensize="60" name="Default_60" size="60" source="Jura-Regular.ttf"/>
+		<font gensize="8" name="Default_8" size="8" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Dialog_help_mid" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" lineheight="40" name="difficulty_level_text" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="GentiumPlus-I_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="GentiumPlus-I_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="35" name="GentiumPlus-I_35" size="35" source="Jura-Regular.ttf"/>
+		<font gensize="40" name="GentiumPlus-I_40" size="40" source="Jura-Regular.ttf"/>
+		<font gensize="50" name="GentiumPlus-I_50" size="50" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Helen_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Helen_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Helen_24" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Helen_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Journal_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Journal_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="25" name="Journal_25" size="25" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Journal_30" size="30" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="-5" gensize="33" name="Main_Menu_btn_large" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="33" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="3" gensize="25" name="Main_Menu_btn_small" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="25" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="2" gensize="21" lineheight="32" name="Main_Menu_learnmore" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="21" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="2" gensize="29" name="Main_Menu_unlock" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="29" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Marmelad_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Marmelad_24" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Marmelad_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="19" name="mg_ho_font" size="19" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Newspaper_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Newspaper_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Newspaper_Bold_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Newspaper_Bold_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Newspaper_Bold_24" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Newspaper_Bold_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="50" name="Newspaper_Bold_50" size="50" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:-2" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="ProfileName" size="30" source="Jura-Regular.ttf"/>
+		<font baselineyoffset="-8" gensize="30" name="ProfileName_dia" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Providence_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Providence_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Providence_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="40" name="Providence_40" size="40" source="Jura-Regular.ttf"/>
+		<font gensize="50" name="Providence_50" size="50" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="ShadowsIntoLightTwo-Regular_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="ShadowsIntoLightTwo-Regular_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="ShadowsIntoLightTwo-Regular_24" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="ShadowsIntoLightTwo-Regular_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="40" name="ShadowsIntoLightTwo-Regular_40" size="40" source="Jura-Regular.ttf"/>
+		<font gensize="50" name="ShadowsIntoLightTwo-Regular_50" size="50" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Slides_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Slides_Bold_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="18" lineheight="30" name="TheGreatEscape_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="TheGreatEscape_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="TheGreatEscape_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="40" name="TheGreatEscape_40" size="40" source="Jura-Regular.ttf"/>
+		<font gensize="50" name="TheGreatEscape_50" size="50" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Tutorial_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Tutorial_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="Tutorial_24" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Tutorial_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="22" name="Tutorial_only_mid" size="22" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Tutorial_only_small" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="Jura-Regular.ttf"/>
+		<font gensize="18" name="Wellfleet-Regular_18" size="18" source="Jura-Regular.ttf"/>
+		<font gensize="20" name="Wellfleet-Regular_20" size="20" source="Jura-Regular.ttf"/>
+		<font gensize="25" name="Wellfleet-Regular_25" size="25" source="Jura-Regular.ttf"/>
+		<font gensize="30" name="Wellfleet-Regular_30" size="30" source="Jura-Regular.ttf"/>
+		<font gensize="16" name="Dialog_profil_name_changeplayer" size="16" source="Jura-Regular.ttf"/>
+	</language>
+	<language name="zh">
+		<font gensize="20" name="achi_text" size="20" source="uming.ttc"/>
+		<font gensize="30" name="achi_title" size="30" source="uming.ttc"/>
+		<font baselineyoffset="2" gensize="23" name="Back_button" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="23" source="uming.ttc"/>
+		<font gensize="15" name="Bolton_15" size="15" source="uming.ttc"/>
+		<font gensize="18" name="Bolton_18" size="18" source="uming.ttc"/>
+		<font gensize="18" name="SKIPTUT" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Bolton_20" size="20" source="uming.ttc"/>
+		<font gensize="22" name="Bolton_22" size="22" source="uming.ttc"/>
+		<font gensize="24" name="Bolton_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Bolton_30" size="30" source="uming.ttc"/>
+		<font gensize="18" name="CoveredByYourGrace_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="CoveredByYourGrace_20" size="20" source="uming.ttc"/>
+		<font gensize="30" name="CoveredByYourGrace_30" size="30" source="uming.ttc"/>
+		<font gensize="30" name="credits_g5_info" size="30" source="uming.ttc"/>
+		<font gensize="40" name="credits_funcion" size="40" source="uming.ttc"/>
+		<font gensize="30" name="credits_name" size="30" source="GentiumPlus-R.ttf"/>
+		<font gensize="10" name="Default_10" size="10" source="uming.ttc"/>
+		<font gensize="18" name="Default_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Default_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Default_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Default_30" size="30" source="uming.ttc"/>
+		<font gensize="50" name="Default_50" size="50" source="uming.ttc"/>
+		<font gensize="60" name="Default_60" size="60" source="uming.ttc"/>
+		<font gensize="8" name="Default_8" size="8" source="uming.ttc"/>
+		<font gensize="18" name="Dialog_help_mid" size="18" source="uming.ttc"/>
+		<font gensize="20" lineheight="40" name="difficulty_level_text" size="20" source="uming.ttc"/>
+		<font gensize="18" name="GentiumPlus-I_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="GentiumPlus-I_20" size="20" source="uming.ttc"/>
+		<font gensize="35" name="GentiumPlus-I_35" size="35" source="uming.ttc"/>
+		<font gensize="40" name="GentiumPlus-I_40" size="40" source="uming.ttc"/>
+		<font gensize="50" name="GentiumPlus-I_50" size="50" source="uming.ttc"/>
+		<font gensize="18" name="Helen_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Helen_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Helen_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Helen_30" size="30" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Hint" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Menu" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="24" name="HUD_Skip" shadowcolor="0:0:0:1" shadowoffset="2:2" size="24" source="uming.ttc"/>
+		<font gensize="18" name="Journal_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Journal_20" size="20" source="uming.ttc"/>
+		<font gensize="25" name="Journal_25" size="25" source="uming.ttc"/>
+		<font gensize="30" name="Journal_30" size="30" source="uming.ttc"/>
+		<font baselineyoffset="-5" gensize="33" name="Main_Menu_btn_large" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="33" source="uming.ttc"/>
+		<font baselineyoffset="3" gensize="25" name="Main_Menu_btn_small" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="25" source="uming.ttc"/>
+		<font baselineyoffset="2" gensize="21" lineheight="32" name="Main_Menu_learnmore" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="21" source="uming.ttc"/>
+		<font baselineyoffset="2" gensize="29" name="Main_Menu_unlock" shadowcolor="0:0:0:1" shadowoffset="-1:1" size="29" source="uming.ttc"/>
+		<font gensize="20" name="Marmelad_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Marmelad_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Marmelad_30" size="30" source="uming.ttc"/>
+		<font gensize="19" name="mg_ho_font" size="19" source="uming.ttc"/>
+		<font gensize="18" name="Newspaper_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Newspaper_20" size="20" source="uming.ttc"/>
+		<font gensize="18" name="Newspaper_Bold_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Newspaper_Bold_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Newspaper_Bold_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Newspaper_Bold_30" size="30" source="uming.ttc"/>
+		<font gensize="50" name="Newspaper_Bold_50" size="50" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_subtitle" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="22" name="Pac_dialog_game_title" shadowcolor="0:0:0:0.588235" shadowoffset="0:2" size="22" source="uming.ttc"/>
+		<font gensize="24" name="Pac_dialog_playnow" shadowcolor="1:0.886275:0.611765:1" shadowoffset="0:-2" size="24" source="uming.ttc"/>
+		<font gensize="16" name="Pac_dialog_text" size="16" source="uming.ttc"/>
+		<font gensize="30" name="ProfileName" size="30" source="uming.ttc"/>
+		<font baselineyoffset="-9" gensize="30" name="ProfileName_dia" size="30" source="uming.ttc"/>
+		<font gensize="18" name="Providence_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Providence_20" size="20" source="uming.ttc"/>
+		<font gensize="30" name="Providence_30" size="30" source="uming.ttc"/>
+		<font gensize="40" name="Providence_40" size="40" source="uming.ttc"/>
+		<font gensize="50" name="Providence_50" size="50" source="uming.ttc"/>
+		<font gensize="18" name="ShadowsIntoLightTwo-Regular_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="ShadowsIntoLightTwo-Regular_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="ShadowsIntoLightTwo-Regular_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="ShadowsIntoLightTwo-Regular_30" size="30" source="uming.ttc"/>
+		<font gensize="40" name="ShadowsIntoLightTwo-Regular_40" size="40" source="uming.ttc"/>
+		<font gensize="50" name="ShadowsIntoLightTwo-Regular_50" size="50" source="uming.ttc"/>
+		<font gensize="18" name="Slides_18" size="18" source="uming.ttc"/>
+		<font gensize="18" name="Slides_Bold_18" size="18" source="uming.ttc"/>
+		<font gensize="18" name="TheGreatEscape_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="TheGreatEscape_20" size="20" source="uming.ttc"/>
+		<font gensize="30" name="TheGreatEscape_30" size="30" source="uming.ttc"/>
+		<font gensize="40" name="TheGreatEscape_40" size="40" source="uming.ttc"/>
+		<font gensize="50" name="TheGreatEscape_50" size="50" source="uming.ttc"/>
+		<font gensize="18" name="Tutorial_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Tutorial_20" size="20" source="uming.ttc"/>
+		<font gensize="24" name="Tutorial_24" size="24" source="uming.ttc"/>
+		<font gensize="30" name="Tutorial_30" size="30" source="uming.ttc"/>
+		<font gensize="22" name="Tutorial_only_mid" size="22" source="uming.ttc"/>
+		<font gensize="18" name="Tutorial_only_small" size="18" source="uming.ttc"/>
+		<font gensize="24" name="tutorial_yes_no" size="24" source="uming.ttc"/>
+		<font gensize="18" name="Wellfleet-Regular_18" size="18" source="uming.ttc"/>
+		<font gensize="20" name="Wellfleet-Regular_20" size="20" source="uming.ttc"/>
+		<font gensize="25" name="Wellfleet-Regular_25" size="25" source="uming.ttc"/>
+		<font gensize="30" name="Wellfleet-Regular_30" size="30" source="uming.ttc"/>
+		<font gensize="16" name="Dialog_profil_name_changeplayer" size="16" source="uming.ttc"/>
+	</language>
+</fontscript>

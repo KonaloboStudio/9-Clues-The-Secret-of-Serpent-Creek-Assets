@@ -1,0 +1,7 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="_BlackTex.png"></frame>
+	<frame source="cell_outside_blink4.png"></frame>
+	<frame source="cell_outside_blink3.png"></frame>
+	<frame source="cell_outside_blink1.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

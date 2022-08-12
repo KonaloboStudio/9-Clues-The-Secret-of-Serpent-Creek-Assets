@@ -1,0 +1,4 @@
+<animatedImage fps="4" blendframes="1">
+	<frame source="joes_death_color_3_head_open.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

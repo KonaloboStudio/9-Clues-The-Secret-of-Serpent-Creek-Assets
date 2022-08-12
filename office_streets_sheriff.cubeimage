@@ -1,0 +1,5 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="office_street_sheriff1.png"></frame>
+	<frame source="office_street_sheriff2.png"></frame>
+	<frame source="office_street_sheriff3.png"></frame>
+</animatedImage>

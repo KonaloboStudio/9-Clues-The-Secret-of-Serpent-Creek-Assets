@@ -1,0 +1,13 @@
+<animatedImage fps="10" blendframes="1">
+	<frame source="empty_texture.png"></frame>
+	<frame source="square_left_cat_normal.png"></frame>
+	<frame source="square_left_cat_angry1.png"></frame>
+	<frame source="square_left_cat_angry1.png"></frame>
+	<frame source="square_left_cat_angry2.png"></frame>
+	<frame source="square_left_cat_angry2.png"></frame>
+	<frame source="square_left_cat_angry2.png"></frame>
+	<frame source="square_left_cat_angry1.png"></frame>
+	<frame source="square_left_cat_angry1.png"></frame>
+	<frame source="square_left_cat_normal.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

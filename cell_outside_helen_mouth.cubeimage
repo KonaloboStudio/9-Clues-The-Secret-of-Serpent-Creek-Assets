@@ -1,0 +1,4 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="cell_outside_helen_grip2_lips_open.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

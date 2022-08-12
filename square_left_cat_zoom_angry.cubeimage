@@ -1,0 +1,7 @@
+<animatedImage fps="6" blendframes="1">
+	<frame source="empty_texture.png"></frame>
+	<frame source="square_left_cat_cat_angry.png"></frame>
+	<frame source="square_left_cat_cat_angry.png"></frame>
+	<frame source="square_left_cat_cat_angry.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

@@ -1,0 +1,4 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="mansion_road_raven_3.png"></frame>
+	<frame source="mansion_road_raven_4.png"></frame>
+</animatedImage>

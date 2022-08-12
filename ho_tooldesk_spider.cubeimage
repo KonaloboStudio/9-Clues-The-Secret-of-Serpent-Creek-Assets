@@ -1,0 +1,10 @@
+<animatedImage fps="5" blendframes="0" width="108" height="108">
+	<frame source="ho_tool_desk_spider.png" dx="0" dy="0" width="100" height="100"></frame>
+	<frame source="ho_tool_desk_spider_2.png" dx="0" dy="0" width="100" height="100"></frame>
+	<frame source="ho_tool_desk_spider_3.png" dx="0" dy="0" width="100" height="100"></frame>
+	<frame source="ho_tool_desk_spider_2.png" dx="0" dy="0" width="100" height="100"></frame>
+	<frame source="ho_tool_desk_spider.png" dx="0" dy="0" width="100" height="100"></frame>
+	<frame source="ho_tool_desk_spider_2.png" dx="0" dy="0" width="100" height="100"></frame>
+	<frame source="ho_tool_desk_spider_3.png" dx="0" dy="0" width="100" height="100"></frame>
+	<frame source="ho_tool_desk_spider_2.png" dx="0" dy="0" width="100" height="100"></frame>
+</animatedImage>

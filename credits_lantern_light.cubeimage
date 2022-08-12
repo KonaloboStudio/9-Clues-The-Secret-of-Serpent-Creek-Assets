@@ -1,0 +1,6 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="credits_lantern_light_1.png"></frame>
+	<frame source="credits_lantern_light_2.png"></frame>
+	<frame source="credits_lantern_light_3.png"></frame>
+	<frame source="credits_lantern_light_2.png"></frame>
+</animatedImage>

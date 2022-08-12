@@ -1,0 +1,6 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="outro_8_helen_hair_1.png"></frame>
+	<frame source="outro_8_helen_hair_2.png"></frame>
+	<frame source="outro_8_helen_hair_3.png"></frame>
+	<frame source="outro_8_helen_hair_2.png"></frame>
+</animatedImage>

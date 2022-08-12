@@ -1,0 +1,6 @@
+<animatedImage fps="8" blendframes="1">
+	<frame source="office_street_car_smoke2.png"></frame>
+	<frame source="office_street_car_smoke3.png"></frame>
+	<frame source="office_street_car_smoke4.png"></frame>
+	<frame source="office_street_car_smoke5.png"></frame>
+</animatedImage>

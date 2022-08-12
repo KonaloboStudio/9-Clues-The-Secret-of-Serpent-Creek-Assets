@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="1">
+	<frame source="library_lounge_beam1.png"></frame>
+	<frame source="library_lounge_beam2.png"></frame>
+	<frame source="library_lounge_beam3.png"></frame>
+</animatedImage>

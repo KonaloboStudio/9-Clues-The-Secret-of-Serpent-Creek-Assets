@@ -1,0 +1,6 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="mansion_road_lighthouse_lantern_1.png"></frame>
+	<frame source="mansion_road_lighthouse_lantern_2.png"></frame>
+	<frame source="mansion_road_lighthouse_lantern_3.png"></frame>
+	<frame source="mansion_road_lighthouse_lantern_4.png"></frame>
+</animatedImage>

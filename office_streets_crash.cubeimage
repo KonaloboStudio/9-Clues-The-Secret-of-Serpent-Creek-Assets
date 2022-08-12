@@ -1,0 +1,10 @@
+<animatedImage fps="8" blendframes="1" width="150" height="150">
+	<frame source="office_street_crash2.png" dx="0" dy="0" width="150" height="150"></frame>
+	<frame source="office_street_crash3.png" dx="0" dy="0" width="150" height="150"></frame>
+	<frame source="office_street_crash4.png" dx="0" dy="0" width="150" height="150"></frame>
+	<frame source="office_street_crash5.png" dx="0" dy="0" width="150" height="150"></frame>
+	<frame source="office_street_crash6.png" dx="0" dy="0" width="150" height="150"></frame>
+	<frame source="office_street_crash7.png" dx="0" dy="0" width="150" height="150"></frame>
+	<frame source="office_street_crash8.png" dx="0" dy="0" width="150" height="150"></frame>
+	<frame source="empty_texture.png" dx="0" dy="0" width="150" height="150"></frame>
+</animatedImage>

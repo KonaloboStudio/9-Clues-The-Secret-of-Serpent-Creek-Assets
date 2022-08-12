@@ -1,0 +1,4 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="cell_outside_helen_normal_mouth.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

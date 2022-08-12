@@ -1,0 +1,8 @@
+<animatedImage fps="13" blendframes="0">
+	<frame source="arrow_detective_mode_1_system.png"></frame>
+	<frame source="arrow_detective_mode_2_system.png"></frame>
+	<frame source="arrow_detective_mode_3_system.png"></frame>
+	<frame source="arrow_detective_mode_4_system.png"></frame>
+	<frame source="arrow_detective_mode_5_system.png"></frame>
+	<frame source="arrow_detective_mode_6_system.png"></frame>
+</animatedImage>

@@ -1,0 +1,8 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="empty_texture.png"></frame>
+	<frame source="library_reading_room_right_monster1.png"></frame>
+	<frame source="library_reading_room_right_monster2.png"></frame>
+	<frame source="library_reading_room_right_monster3.png"></frame>
+	<frame source="library_reading_room_right_monster4.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

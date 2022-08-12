@@ -1,0 +1,4 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="hotel_streets_monster_shadow_1_tail1.png"></frame>
+	<frame source="hotel_streets_monster_shadow_1_tail2.png"></frame>
+</animatedImage>

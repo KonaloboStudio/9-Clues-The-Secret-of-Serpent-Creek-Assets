@@ -1,0 +1,6 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="preintro_03_head_left.png"></frame>
+	<frame source="preintro_03_head_left.png"></frame>
+	<frame source="preintro_03_head_right.png"></frame>
+	<frame source="preintro_03_head_right.png"></frame>
+</animatedImage>

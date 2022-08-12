@@ -1,0 +1,5 @@
+<animatedImage fps="1" blendframes="1">
+	<frame source="square_right_zombie_walk_1.png"></frame>
+	<frame source="square_right_zombie_walk_2.png"></frame>
+	<frame source="square_right_zombie_walk_sit.png"></frame>
+</animatedImage>

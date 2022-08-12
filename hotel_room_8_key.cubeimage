@@ -1,0 +1,5 @@
+<animatedImage fps="3" blendframes="1">
+	<frame source="hotel_room_8_key_1.png"></frame>
+	<frame source="hotel_room_8_key_2.png"></frame>
+	<frame source="hotel_room_8_key_1.png"></frame>
+</animatedImage>

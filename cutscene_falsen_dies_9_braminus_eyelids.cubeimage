@@ -1,0 +1,7 @@
+<animatedImage fps="15" blendframes="0">
+	<frame source="empty_texture.png"></frame>
+	<frame source="cutscene_falsen_dies_9_braminus_eyelids1.png"></frame>
+	<frame source="cutscene_falsen_dies_9_braminus_eyelids2.png"></frame>
+	<frame source="cutscene_falsen_dies_9_braminus_eyelids1.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>

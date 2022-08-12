@@ -1,0 +1,4 @@
+<animatedImage fps="15" blendframes="0">
+	<frame source="cutscene_falsen_dies_9_flare_light1.png"></frame>
+	<frame source="cutscene_falsen_dies_9_flare_light2.png"></frame>
+</animatedImage>

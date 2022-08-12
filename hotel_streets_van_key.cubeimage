@@ -1,0 +1,4 @@
+<animatedImage fps="2" blendframes="1">
+	<frame source="hotel_streets_van_key_anim_2.png"></frame>
+	<frame source="hotel_streets_van_key_anim_1.png"></frame>
+</animatedImage>

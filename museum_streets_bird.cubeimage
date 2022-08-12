@@ -1,0 +1,4 @@
+<animatedImage fps="5" blendframes="1">
+	<frame source="museum_streets_bird_1.png"></frame>
+	<frame source="museum_streets_bird_2.png"></frame>
+</animatedImage>

@@ -1,0 +1,8 @@
+<animatedImage fps="7" blendframes="1">
+	<frame source="preintro_01_cat_1.png"></frame>
+	<frame source="preintro_01_cat_2.png"></frame>
+	<frame source="preintro_01_cat_3.png"></frame>
+	<frame source="preintro_01_cat_4.png"></frame>
+	<frame source="preintro_01_cat_5.png"></frame>
+	<frame source="empty_texture.png"></frame>
+</animatedImage>
